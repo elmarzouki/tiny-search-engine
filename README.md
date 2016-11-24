@@ -5,7 +5,6 @@ This code was written by Mostafa El-Marzouki @iSuperMostafa
 Faculty of computer science and information Helwan university.
 # Related course: 
 Information storage and retrieval
-# ------------------------------------------------------------
 # summery:
 This project is a Tiny Search Engine, that do searching in
 unlimited number of files in directory called data.
